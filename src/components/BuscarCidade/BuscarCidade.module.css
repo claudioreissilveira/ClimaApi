@@ -1,0 +1,31 @@
+.div_status {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.div_status p {
+  font-size: 16px;
+}
+
+.input_buscar {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+.div_buscar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.erro_txt {
+  color: rgb(191, 35, 35);
+  margin: 0.5rem auto;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}

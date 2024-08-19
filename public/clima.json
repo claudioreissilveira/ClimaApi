@@ -1,0 +1,54 @@
+{
+    "cidades": {
+        "Sao Paulo": {
+            "temperatura": "22°C",
+            "condicoes": "Ensolarado",
+            "icone": "☀️"
+        },
+        "Rio de Janeiro": {
+            "temperatura": "25°C",
+            "condicoes": "Parcialmente Nublado",
+            "icone": "🌤️"
+        },
+        "Curitiba": {
+            "temperatura": "18°C",
+            "condicoes": "Chuvoso",
+            "icone": "🌧️"
+        },
+        "Salvador": {
+            "temperatura": "28°C",
+            "condicoes": "Ensolarado",
+            "icone": "☀️"
+        },
+        "Belo Horizonte": {
+            "temperatura": "24°C",
+            "condicoes": "Nublado",
+            "icone": "☁️"
+        },
+        "Porto Alegre": {
+            "temperatura": "20°C",
+            "condicoes": "Chuva leve",
+            "icone": "🌦️"
+        },
+        "Brasília": {
+            "temperatura": "26°C",
+            "condicoes": "Parcialmente Nublado",
+            "icone": "🌤️"
+        },
+        "Manaus": {
+            "temperatura": "30°C",
+            "condicoes": "Chuva Forte",
+            "icone": "⛈️"
+        },
+        "Fortaleza": {
+            "temperatura": "29°C",
+            "condicoes": "Ensolarado",
+            "icone": "☀️"
+        },
+        "Recife": {
+            "temperatura": "27°C",
+            "condicoes": "Ensolarado com nuvens",
+            "icone": "🌤️"
+        }
+    }
+}
